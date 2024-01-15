@@ -1,0 +1,29 @@
+#WorkTogether{
+    background-color: #003072;
+    color: #fff;
+    padding: 60px 0;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    .container{
+        display: flex;
+    justify-content: center;
+    align-items: center;
+    }
+    .content{
+        max-width: 500px;
+    }
+    h3{
+        font-size: 42px;
+        margin-bottom: 20px;
+    }
+    button{
+        margin-top: 20px;
+        background-color: transparent;
+        color: #fff;
+        padding: 15px 35px;
+        border: 1px solid #fff;
+        font-weight: 700;
+    }
+}

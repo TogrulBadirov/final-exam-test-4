@@ -1,0 +1,10 @@
+.cards{
+    justify-content: center;
+    .card{
+        max-width: 400px;
+        border: none;
+        img{
+            max-width: 100%;
+        }
+    }
+}
